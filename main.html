@@ -20,15 +20,15 @@
       <p>Entre o valor em kg para converter:</p>  
         <p>
             <label>Kilograms</label>
-            <input id="Kilograms" 
+            <input id="Kilogramas" 
                    type="number" 
-                   placeholder="kilograms" 
+                   placeholder="kilogramas" 
                    oninput="kiloweightConvert(this.value)" 
                    onchange="kiloweightConvert(this.value)" />
         </p>
-        <p>Pounds: <span id="Pounds"></span></p>
-        <p>Ounces: <span id="Ounces"></span></p>
-        <p>Grams: <span id="Grams"></span></p>
+        <p>Libras: <span id="Libras"></span></p>
+        <p>Onças: <span id="Onças"></span></p>
+        <p>Gramas : <span id="Gramas"></span></p>
        
       <!--Comprimento-->
         <p>Entre o valor em m para converter:</p>  
@@ -59,11 +59,11 @@
   
         <script>
             function kiloweightConvert(value) {
-                document.getElementById("Pounds").innerHTML =
+                document.getElementById("Libras").innerHTML =
                   value * 2.2046;
-                document.getElementById("Ounces").innerHTML =
+                document.getElementById("Onças").innerHTML =
                   value * 35.274;
-                document.getElementById("Grams").innerHTML =
+                document.getElementById("Gramas").innerHTML =
                   value * 1000;
             }
           function meterConvert(value) {
