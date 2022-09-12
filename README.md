@@ -4,15 +4,10 @@ Quarto Semestre, segunda entrega
 ==Conversor de Medidas==
 
 -Camila Braga Barreiro
-
 -Edgar Souza Piquera
-
 -Giovanni Izzo de Oliveira
-
 -Guilherme Mello da Silva
-
 -Gustavo Emanuel Farias Rosa
-
 -Igor Emilio de Oliveira
 
 De acordo com a documentação entregue no trimestre passado, na primeira entrega do Projeto Integrador, foi realizado um conversor de medidas, onde, utilizando a linguagem de programação HTML e scripts com matemática básica, pode se realizar as seguintes conversões.
