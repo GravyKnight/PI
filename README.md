@@ -40,4 +40,5 @@ O programa é de simples utilização, basta selecionar a grandeza que deseja se
 
 Referências:
 -Acervo Lima - Como criar um conversor de medidas utilizando html e javascript. https://acervolima.com/como-criar-um-conversor-de-peso-com-html-e-javascript/ Acesso em 09/09/2022. 
+
 -Suporte Google Converter (Convert) - Converte um valor numérico em uma unidade de medida diferente. https://support.google.com/docs/answer/6055540?hl=pt-BR Acesso em 09/09/2022.
